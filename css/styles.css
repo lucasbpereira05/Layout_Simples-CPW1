@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#layer1{
+    background-color: #16a085;
+    height: 200px;
+}
+
+#layer2{
+    display: flex;
+    height: 200px;
+}
+
+#layer2-1{
+    background-color: #2ecc71;
+    width: 50%;
+}
+
+#layer2-2{
+    background-color: #66cc99;
+    width: 50%;
+}
+
+#layer3{
+    display: flex;
+    height: 200px;
+}
+
+#layer3-1{
+    background-color: #93faa5;
+    width: 25%;
+}
+
+#layer3-2{
+    background-color: #b7f4d8;
+    width: 25%;
+}
+
+#layer3-3{
+    background-color: #c2f970;
+    width: 25%;
+}
+
+#layer3-4{
+    background-color: #eaf2d7;
+    width: 25%;
+}
